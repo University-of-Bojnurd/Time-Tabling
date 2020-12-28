@@ -11,9 +11,17 @@
 
    ---
    
+   
+   
+   
+   
 What do I need before starting:
 
 [![JADI](https://img.shields.io/badge/Use--Git%3A-JADI-success)](https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git#faradars_demo_free)  [![Git](https://img.shields.io/badge/Use--Git%3A-Rocket.ir-red)](https://roocket.ir/series/learn-git-and-github)  [![VSCode](https://img.shields.io/badge/Use--VS--Code%3A-Rocket.ir-blue)](https://roocket.ir/series/coding-with-vscode)
+
+
+
+
 
 > This Apps create for _**master of science students in Optimization in Industrial Engeenering in University of Bojnurd in Scheduling Class's**_ and use it, but everyone can use and develope this reposetory.
 
@@ -21,8 +29,17 @@ What do I need before starting:
 
 > from: Mostafa Karimi
 
+
+
+
+
 ## TimeTablingSoftWareWithPython
 * Time Tabling Soft Ware With Python Demo Version
+
+
+
+
+
 
 <details>
   <summary>
