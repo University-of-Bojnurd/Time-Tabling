@@ -22,7 +22,7 @@ What do I need before starting:
 > from: Mostafa Karimi
 
 ## TimeTablingSoftWareWithPython
-Time Tabling Soft Ware With Python Demo Version
+* Time Tabling Soft Ware With Python Demo Version
 
 <details>
   <summary>
