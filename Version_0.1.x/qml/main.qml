@@ -407,7 +407,7 @@ Window {
                             btnSettings.isActiveMenu = true
                             stackView.push(Qt.resolvedUrl("pages/settingsPage.qml"))
 
-//                            pagesView.setSource(Qt.resolvedUrl("pages/settingsPage.qml"))
+                            //                            pagesView.setSource(Qt.resolvedUrl("pages/settingsPage.qml"))
                         }
 
 
