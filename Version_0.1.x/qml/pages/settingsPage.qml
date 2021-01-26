@@ -12,10 +12,12 @@ Item {
             x: 386
             y: 265
             color: "#ffffff"
-            text: qsTr("Settings Page")
+            text: qsTr("Tme Tabling Page")
             anchors.verticalCenter: parent.verticalCenter
             horizontalAlignment: Text.AlignHCenter
             verticalAlignment: Text.AlignVCenter
+            anchors.verticalCenterOffset: -198
+            anchors.horizontalCenterOffset: 0
             anchors.horizontalCenter: parent.horizontalCenter
             font.family: "MS Shell Dig 2"
             font.pointSize: 16
